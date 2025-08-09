@@ -1,0 +1,57 @@
+[
+  { "kana": "あ", "romaji": "a", "meaning": "A", "sound": "あ" },
+  { "kana": "い", "romaji": "i", "meaning": "I", "sound": "い" },
+  { "kana": "う", "romaji": "u", "meaning": "U", "sound": "う" },
+  { "kana": "え", "romaji": "e", "meaning": "E", "sound": "え" },
+  { "kana": "お", "romaji": "o", "meaning": "O", "sound": "お" },
+
+  { "kana": "か", "romaji": "ka", "meaning": "KA", "sound": "か" },
+  { "kana": "き", "romaji": "ki", "meaning": "KI", "sound": "き" },
+  { "kana": "く", "romaji": "ku", "meaning": "KU", "sound": "く" },
+  { "kana": "け", "romaji": "ke", "meaning": "KE", "sound": "け" },
+  { "kana": "こ", "romaji": "ko", "meaning": "KO", "sound": "こ" },
+
+  { "kana": "さ", "romaji": "sa", "meaning": "SA", "sound": "さ" },
+  { "kana": "し", "romaji": "shi", "meaning": "SHI", "sound": "し" },
+  { "kana": "す", "romaji": "su", "meaning": "SU", "sound": "す" },
+  { "kana": "せ", "romaji": "se", "meaning": "SE", "sound": "せ" },
+  { "kana": "そ", "romaji": "so", "meaning": "SO", "sound": "そ" },
+
+  { "kana": "た", "romaji": "ta", "meaning": "TA", "sound": "た" },
+  { "kana": "ち", "romaji": "chi", "meaning": "CHI", "sound": "ち" },
+  { "kana": "つ", "romaji": "tsu", "meaning": "TSU", "sound": "つ" },
+  { "kana": "て", "romaji": "te", "meaning": "TE", "sound": "て" },
+  { "kana": "と", "romaji": "to", "meaning": "TO", "sound": "と" },
+
+  { "kana": "な", "romaji": "na", "meaning": "NA", "sound": "な" },
+  { "kana": "に", "romaji": "ni", "meaning": "NI", "sound": "に" },
+  { "kana": "ぬ", "romaji": "nu", "meaning": "NU", "sound": "ぬ" },
+  { "kana": "ね", "romaji": "ne", "meaning": "NE", "sound": "ね" },
+  { "kana": "の", "romaji": "no", "meaning": "NO", "sound": "の" },
+
+  { "kana": "は", "romaji": "ha", "meaning": "HA", "sound": "は" },
+  { "kana": "ひ", "romaji": "hi", "meaning": "HI", "sound": "ひ" },
+  { "kana": "ふ", "romaji": "fu", "meaning": "FU", "sound": "ふ" },
+  { "kana": "へ", "romaji": "he", "meaning": "HE", "sound": "へ" },
+  { "kana": "ほ", "romaji": "ho", "meaning": "HO", "sound": "ほ" },
+
+  { "kana": "ま", "romaji": "ma", "meaning": "MA", "sound": "ま" },
+  { "kana": "み", "romaji": "mi", "meaning": "MI", "sound": "み" },
+  { "kana": "む", "romaji": "mu", "meaning": "MU", "sound": "む" },
+  { "kana": "め", "romaji": "me", "meaning": "ME", "sound": "め" },
+  { "kana": "も", "romaji": "mo", "meaning": "MO", "sound": "も" },
+
+  { "kana": "や", "romaji": "ya", "meaning": "YA", "sound": "や" },
+  { "kana": "ゆ", "romaji": "yu", "meaning": "YU", "sound": "ゆ" },
+  { "kana": "よ", "romaji": "yo", "meaning": "YO", "sound": "よ" },
+
+  { "kana": "ら", "romaji": "ra", "meaning": "RA", "sound": "ら" },
+  { "kana": "り", "romaji": "ri", "meaning": "RI", "sound": "り" },
+  { "kana": "る", "romaji": "ru", "meaning": "RU", "sound": "る" },
+  { "kana": "れ", "romaji": "re", "meaning": "RE", "sound": "れ" },
+  { "kana": "ろ", "romaji": "ro", "meaning": "RO", "sound": "ろ" },
+
+  { "kana": "わ", "romaji": "wa", "meaning": "WA", "sound": "わ" },
+  { "kana": "を", "romaji": "wo", "meaning": "WO", "sound": "を" },
+  { "kana": "ん", "romaji": "n", "meaning": "N", "sound": "ん" }
+]

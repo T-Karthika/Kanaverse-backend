@@ -1,0 +1,82 @@
+[
+  {
+    "kanji": "山",
+    "meaning": "mountain",
+    "onyomi": ["サン (san)"],
+    "kunyomi": ["やま (yama)"],
+    "examples": ["山 (やま) - Mountain", "富士山 (ふじさん) - Mt. Fuji"],
+    "sound": "山"
+  },
+  {
+    "kanji": "川",
+    "meaning": "river",
+    "onyomi": ["セン (sen)"],
+    "kunyomi": ["かわ (kawa)"],
+    "examples": ["川 (かわ) - River", "川辺 (かわべ) - Riverside"],
+    "sound": "川"
+  },
+  {
+    "kanji": "天",
+    "meaning": "sky / heaven",
+    "onyomi": ["テン (ten)"],
+    "kunyomi": [],
+    "examples": ["天気 (てんき) - Weather", "天国 (てんごく) - Heaven"],
+    "sound": "天"
+  },
+  {
+    "kanji": "気",
+    "meaning": "spirit / air / mood",
+    "onyomi": ["キ (ki)"],
+    "kunyomi": [],
+    "examples": ["元気 (げんき) - Healthy", "天気 (てんき) - Weather"],
+    "sound": "気"
+  },
+  {
+    "kanji": "雨",
+    "meaning": "rain",
+    "onyomi": ["ウ (u)"],
+    "kunyomi": ["あめ (ame)"],
+    "examples": ["雨 (あめ) - Rain", "大雨 (おおあめ) - Heavy rain"],
+    "sound": "雨"
+  },
+  {
+    "kanji": "花",
+    "meaning": "flower",
+    "onyomi": ["カ (ka)"],
+    "kunyomi": ["はな (hana)"],
+    "examples": ["花 (はな) - Flower", "花火 (はなび) - Fireworks"],
+    "sound": "花"
+  },
+  {
+    "kanji": "木",
+    "meaning": "tree / wood",
+    "onyomi": ["モク (moku)", "ボク (boku)"],
+    "kunyomi": ["き (ki)", "こ (ko)"],
+    "examples": ["木 (き) - Tree", "木曜日 (もくようび) - Thursday"],
+    "sound": "木"
+  },
+  {
+    "kanji": "石",
+    "meaning": "stone",
+    "onyomi": ["セキ (seki)", "シャク (shaku)"],
+    "kunyomi": ["いし (ishi)"],
+    "examples": ["石 (いし) - Stone", "石けん (せっけん) - Soap"],
+    "sound": "石"
+  },
+  {
+    "kanji": "空",
+    "meaning": "sky / empty",
+    "onyomi": ["クウ (kuu)"],
+    "kunyomi": ["そら (sora)", "あく (aku)", "から (kara)"],
+    "examples": ["空 (そら) - Sky", "空気 (くうき) - Air"],
+    "sound": "空"
+  },
+  {
+    "kanji": "海",
+    "meaning": "sea / ocean",
+    "onyomi": ["カイ (kai)"],
+    "kunyomi": ["うみ (umi)"],
+    "examples": ["海 (うみ) - Sea", "海外 (かいがい) - Overseas"],
+    "sound": "海"
+  }
+]

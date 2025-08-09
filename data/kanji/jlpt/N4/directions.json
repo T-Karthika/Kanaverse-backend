@@ -1,0 +1,82 @@
+[
+  {
+    "kanji": "上",
+    "meaning": "up / above (ue)",
+    "onyomi": ["ジョウ"],
+    "kunyomi": ["うえ", "あ.げる", "あ.がる"],
+    "examples": ["上 (うえ) - Up", "上がる (あがる) - To rise"],
+    "sound": "上"
+  },
+  {
+    "kanji": "下",
+    "meaning": "down / below (shita)",
+    "onyomi": ["カ", "ゲ"],
+    "kunyomi": ["した", "さ.げる", "さ.がる"],
+    "examples": ["下 (した) - Down", "下がる (さがる) - To fall"],
+    "sound": "下"
+  },
+  {
+    "kanji": "左",
+    "meaning": "left (hidari)",
+    "onyomi": ["サ"],
+    "kunyomi": ["ひだり"],
+    "examples": ["左 (ひだり) - Left", "左手 (ひだりて) - Left hand"],
+    "sound": "左"
+  },
+  {
+    "kanji": "右",
+    "meaning": "right (migi)",
+    "onyomi": ["ウ", "ユウ"],
+    "kunyomi": ["みぎ"],
+    "examples": ["右 (みぎ) - Right", "右手 (みぎて) - Right hand"],
+    "sound": "右"
+  },
+  {
+    "kanji": "前",
+    "meaning": "front / before (mae)",
+    "onyomi": ["ゼン"],
+    "kunyomi": ["まえ"],
+    "examples": ["前 (まえ) - In front", "名前 (なまえ) - Name"],
+    "sound": "前"
+  },
+  {
+    "kanji": "後",
+    "meaning": "behind / after (ushiro / ato)",
+    "onyomi": ["ゴ", "コウ"],
+    "kunyomi": ["うし.ろ", "あと"],
+    "examples": ["後ろ (うしろ) - Behind", "午後 (ごご) - Afternoon"],
+    "sound": "後"
+  },
+  {
+    "kanji": "中",
+    "meaning": "inside / middle (naka)",
+    "onyomi": ["チュウ"],
+    "kunyomi": ["なか"],
+    "examples": ["中 (なか) - Inside", "中国 (ちゅうごく) - China"],
+    "sound": "中"
+  },
+  {
+    "kanji": "外",
+    "meaning": "outside (soto)",
+    "onyomi": ["ガイ", "ゲ"],
+    "kunyomi": ["そと", "はず.す"],
+    "examples": ["外 (そと) - Outside", "外国 (がいこく) - Foreign country"],
+    "sound": "外"
+  },
+  {
+    "kanji": "近",
+    "meaning": "near (chikai)",
+    "onyomi": ["キン"],
+    "kunyomi": ["ちか.い"],
+    "examples": ["近い (ちかい) - Near", "近所 (きんじょ) - Neighborhood"],
+    "sound": "近"
+  },
+  {
+    "kanji": "遠",
+    "meaning": "far (tooi)",
+    "onyomi": ["エン"],
+    "kunyomi": ["とお.い"],
+    "examples": ["遠い (とおい) - Far", "遠足 (えんそく) - Excursion"],
+    "sound": "遠"
+  }
+]

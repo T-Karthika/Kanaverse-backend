@@ -1,0 +1,95 @@
+[
+  {
+    "base": "たべる",
+    "romaji_base": "taberu",
+    "type": "ru-verb",
+    "plain_present": "たべる",
+    "plain_past": "たべた",
+    "negative": "たべない",
+    "te_form": "たべて",
+    "polite": "たべます"
+  },
+  {
+    "base": "のむ",
+    "romaji_base": "nomu",
+    "type": "u-verb",
+    "plain_present": "のむ",
+    "plain_past": "のんだ",
+    "negative": "のまない",
+    "te_form": "のんで",
+    "polite": "のみます"
+  },
+  {
+    "base": "する",
+    "romaji_base": "suru",
+    "type": "irregular",
+    "plain_present": "する",
+    "plain_past": "した",
+    "negative": "しない",
+    "te_form": "して",
+    "polite": "します"
+  },
+  {
+    "base": "くる",
+    "romaji_base": "kuru",
+    "type": "irregular",
+    "plain_present": "くる",
+    "plain_past": "きた",
+    "negative": "こない",
+    "te_form": "きて",
+    "polite": "きます"
+  },
+  
+  {
+    "base": "あそぶ",
+    "romaji_base": "asobu",
+    "type": "u-verb",
+    "plain_present": "あそぶ",
+    "plain_past": "あそんだ",
+    "negative": "あそばない",
+    "te_form": "あそんで",
+    "polite": "あそびます"
+  },
+  {
+    "base": "ねる",
+    "romaji_base": "neru",
+    "type": "ru-verb",
+    "plain_present": "ねる",
+    "plain_past": "ねた",
+    "negative": "ねない",
+    "te_form": "ねて",
+    "polite": "ねます"
+  },
+  {
+    "base": "あるく",
+    "romaji_base": "aruku",
+    "type": "u-verb",
+    "plain_present": "あるく",
+    "plain_past": "あるいた",
+    "negative": "あるかない",
+    "te_form": "あるいて",
+    "polite": "あるきます"
+  },
+  {
+    "base": "はしる",
+    "romaji_base": "hashiru",
+    "type": "u-verb",
+    "plain_present": "はしる",
+    "plain_past": "はしった",
+    "negative": "はしらない",
+    "te_form": "はしって",
+    "polite": "はしります"
+  },
+  {
+    "base": "かえる",
+    "romaji_base": "kaeru",
+    "type": "u-verb",
+    "plain_present": "かえる",
+    "plain_past": "かえった",
+    "negative": "かえらない",
+    "te_form": "かえって",
+    "polite": "かえります"
+  }
+
+
+]

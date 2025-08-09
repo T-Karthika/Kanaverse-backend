@@ -1,0 +1,90 @@
+[
+  {
+    "kanji": "山",
+    "meaning": "mountain",
+    "onyomi": ["サン"],
+    "kunyomi": ["やま"],
+    "examples": ["山 (やま) - Mountain", "富士山 (ふじさん) - Mount Fuji"],
+    "sound": "山"
+  },
+  {
+    "kanji": "川",
+    "meaning": "river",
+    "onyomi": ["セン"],
+    "kunyomi": ["かわ"],
+    "examples": ["川 (かわ) - River", "大川 (おおかわ) - Big river"],
+    "sound": "川"
+  },
+  {
+    "kanji": "海",
+    "meaning": "sea / ocean",
+    "onyomi": ["カイ"],
+    "kunyomi": ["うみ"],
+    "examples": ["海 (うみ) - Sea", "海外 (かいがい) - Overseas"],
+    "sound": "海"
+  },
+  {
+    "kanji": "空",
+    "meaning": "sky / empty",
+    "onyomi": ["クウ"],
+    "kunyomi": ["そら", "から", "あ.ける"],
+    "examples": ["空 (そら) - Sky", "空気 (くうき) - Air"],
+    "sound": "空"
+  },
+  {
+    "kanji": "天",
+    "meaning": "heaven / sky",
+    "onyomi": ["テン"],
+    "kunyomi": [],
+    "examples": ["天気 (てんき) - Weather", "天国 (てんごく) - Heaven"],
+    "sound": "天"
+  },
+  {
+    "kanji": "雨",
+    "meaning": "rain",
+    "onyomi": ["ウ"],
+    "kunyomi": ["あめ", "あま"],
+    "examples": ["雨 (あめ) - Rain", "大雨 (おおあめ) - Heavy rain"],
+    "sound": "雨"
+  },
+  {
+    "kanji": "雪",
+    "meaning": "snow",
+    "onyomi": ["セツ"],
+    "kunyomi": ["ゆき"],
+    "examples": ["雪 (ゆき) - Snow", "大雪 (おおゆき) - Heavy snow"],
+    "sound": "雪"
+  },
+  {
+    "kanji": "風",
+    "meaning": "wind",
+    "onyomi": ["フウ"],
+    "kunyomi": ["かぜ"],
+    "examples": ["風 (かぜ) - Wind", "台風 (たいふう) - Typhoon"],
+    "sound": "風"
+  },
+  {
+    "kanji": "花",
+    "meaning": "flower",
+    "onyomi": ["カ"],
+    "kunyomi": ["はな"],
+    "examples": ["花 (はな) - Flower", "花見 (はなみ) - Flower viewing"],
+    "sound": "花"
+  },
+  {
+    "kanji": "森",
+    "meaning": "forest",
+    "onyomi": ["シン"],
+    "kunyomi": ["もり"],
+    "examples": ["森 (もり) - Forest", "森林 (しんりん) - Woodland"],
+    "sound": "森"
+  },
+  {
+    "kanji": "石",
+    "meaning": "stone",
+    "onyomi": ["セキ", "シャク", "コク"],
+    "kunyomi": ["いし"],
+    "examples": ["石 (いし) - Stone", "石けん (せっけん) - Soap"],
+    "sound": "石"
+  }
+]

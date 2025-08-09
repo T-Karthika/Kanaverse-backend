@@ -1,0 +1,42 @@
+[
+  {
+    "base": "たべる",
+    "romaji": "taberu",
+    "meaning": "to eat",
+    "type": "ru-verb",
+    "kanji": "食べる",
+    "sound": "たべる"
+  },
+  {
+    "base": "のむ",
+    "romaji": "nomu",
+    "meaning": "to drink",
+    "type": "u-verb",
+    "kanji": "飲む",
+    "sound": "のむ"
+  },
+  {
+    "base": "いく",
+    "romaji": "iku",
+    "meaning": "to go",
+    "type": "u-verb",
+    "kanji": "行く",
+    "sound": "いく"
+  },
+  {
+    "base": "する",
+    "romaji": "suru",
+    "meaning": "to do",
+    "type": "irregular",
+    "kanji": "する",
+    "sound": "する"
+  },
+  {
+    "base": "くる",
+    "romaji": "kuru",
+    "meaning": "to come",
+    "type": "irregular",
+    "kanji": "来る",
+    "sound": "くる"
+  }
+]

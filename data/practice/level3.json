@@ -1,0 +1,55 @@
+[
+  {
+    "question": "わたし は 毎日 学校に ______。",
+    "answer": "いきます",
+    "romaji": "ikimasu",
+    "meaning": "go",
+    "options": ["いきます", "たべます", "みます", "ねます"]
+  },
+  {
+    "question": "‘Thank you very much’ は 日本語で？",
+    "answer": "ありがとうございます",
+    "romaji": "arigatou gozaimasu",
+    "meaning": "Thank you very much",
+    "options": ["こんにちは", "ありがとうございます", "さようなら", "いただきます"]
+  },
+  {
+    "question": "‘This is a pen’ を 日本語で？",
+    "answer": "これはペンです",
+    "romaji": "kore wa pen desu",
+    "meaning": "This is a pen",
+    "options": ["これはえんぴつです", "これはほんです", "これはペンです", "あれはペンです"]
+  },
+  {
+    "question": "‘読む’ の よみかた は？",
+    "answer": "よむ",
+    "romaji": "yomu",
+    "meaning": "to read",
+    "options": ["かく", "よむ", "はなす", "みる"]
+  },
+  {
+    "question": "‘Please read’ は 日本語で？",
+    "answer": "よんでください",
+    "options": ["かいてください", "よんでください", "はなしてください", "きいてください"]
+  },
+  {
+    "question": "‘To memorize’ は 日本語で？",
+    "answer": "おぼえる",
+    "options": ["おぼえる", "わすれる", "おしえる", "ならう"]
+  },
+  {
+    "question": "‘Help!’ を 日本語で？",
+    "answer": "たすけて！",
+    "options": ["たすけて！", "まって！", "やめて！", "いって！"]
+  },
+  {
+    "question": "‘Are you okay?’ は 日本語で？",
+    "answer": "だいじょうぶですか？",
+    "options": ["げんきですか？", "だいじょうぶですか？", "どこですか？", "おはようございます"]
+  },
+  {
+    "question": "‘Please say it one more time’ を 日本語で？",
+    "answer": "もういちど おねがいします",
+    "options": ["ゆっくり おねがいします", "もういちど おねがいします", "すみません", "いいえ"]
+  }
+]

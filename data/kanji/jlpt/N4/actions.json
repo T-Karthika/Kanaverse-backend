@@ -1,0 +1,82 @@
+[
+  {
+    "kanji": "行",
+    "meaning": "go (iku)",
+    "onyomi": ["コウ", "ギョウ"],
+    "kunyomi": ["い.く", "ゆ.く"],
+    "examples": ["行く (いく) - To go", "銀行 (ぎんこう) - Bank"],
+    "sound": "行"
+  },
+  {
+    "kanji": "来",
+    "meaning": "come (kuru)",
+    "onyomi": ["ライ"],
+    "kunyomi": ["く.る", "き.たる"],
+    "examples": ["来る (くる) - To come", "来年 (らいねん) - Next year"],
+    "sound": "来"
+  },
+  {
+    "kanji": "食",
+    "meaning": "eat (taberu)",
+    "onyomi": ["ショク"],
+    "kunyomi": ["た.べる"],
+    "examples": ["食べる (たべる) - To eat", "朝食 (ちょうしょく) - Breakfast"],
+    "sound": "食"
+  },
+  {
+    "kanji": "飲",
+    "meaning": "drink (nomu)",
+    "onyomi": ["イン"],
+    "kunyomi": ["の.む"],
+    "examples": ["飲む (のむ) - To drink", "飲み物 (のみもの) - Beverage"],
+    "sound": "飲"
+  },
+  {
+    "kanji": "見",
+    "meaning": "see / look (miru)",
+    "onyomi": ["ケン"],
+    "kunyomi": ["み.る", "み.える"],
+    "examples": ["見る (みる) - To see", "意見 (いけん) - Opinion"],
+    "sound": "見"
+  },
+  {
+    "kanji": "書",
+    "meaning": "write (kaku)",
+    "onyomi": ["ショ"],
+    "kunyomi": ["か.く"],
+    "examples": ["書く (かく) - To write", "辞書 (じしょ) - Dictionary"],
+    "sound": "書"
+  },
+  {
+    "kanji": "話",
+    "meaning": "speak / talk (hanasu)",
+    "onyomi": ["ワ"],
+    "kunyomi": ["はな.す", "はなし"],
+    "examples": ["話す (はなす) - To speak", "会話 (かいわ) - Conversation"],
+    "sound": "話"
+  },
+  {
+    "kanji": "聞",
+    "meaning": "hear / ask (kiku)",
+    "onyomi": ["ブン", "モン"],
+    "kunyomi": ["き.く", "き.こえる"],
+    "examples": ["聞く (きく) - To hear", "新聞 (しんぶん) - Newspaper"],
+    "sound": "聞"
+  },
+  {
+    "kanji": "買",
+    "meaning": "buy (kau)",
+    "onyomi": ["バイ"],
+    "kunyomi": ["か.う"],
+    "examples": ["買う (かう) - To buy", "買い物 (かいもの) - Shopping"],
+    "sound": "買"
+  },
+  {
+    "kanji": "売",
+    "meaning": "sell (uru)",
+    "onyomi": ["バイ"],
+    "kunyomi": ["う.る"],
+    "examples": ["売る (うる) - To sell", "販売 (はんばい) - Sales"],
+    "sound": "売"
+  }
+]

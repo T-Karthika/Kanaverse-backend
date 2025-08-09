@@ -1,0 +1,82 @@
+[
+  {
+    "kanji": "人",
+    "meaning": "person",
+    "onyomi": ["ジン (jin)", "ニン (nin)"],
+    "kunyomi": ["ひと (hito)"],
+    "examples": ["日本人 (にほんじん) - Japanese person", "一人 (ひとり) - One person"],
+    "sound": "人"
+  },
+  {
+    "kanji": "日",
+    "meaning": "day / sun",
+    "onyomi": ["ニチ (nichi)", "ジツ (jitsu)"],
+    "kunyomi": ["ひ (hi)", "か (ka)"],
+    "examples": ["日曜日 (にちようび) - Sunday", "毎日 (まいにち) - Every day"],
+    "sound": "日"
+  },
+  {
+    "kanji": "月",
+    "meaning": "moon / month",
+    "onyomi": ["ゲツ (getsu)", "ガツ (gatsu)"],
+    "kunyomi": ["つき (tsuki)"],
+    "examples": ["月曜日 (げつようび) - Monday", "一月 (いちがつ) - January"],
+    "sound": "月"
+  },
+  {
+    "kanji": "火",
+    "meaning": "fire",
+    "onyomi": ["カ (ka)"],
+    "kunyomi": ["ひ (hi)", "ほ (ho)"],
+    "examples": ["火曜日 (かようび) - Tuesday", "花火 (はなび) - Fireworks"],
+    "sound": "火"
+  },
+  {
+    "kanji": "水",
+    "meaning": "water",
+    "onyomi": ["スイ (sui)"],
+    "kunyomi": ["みず (mizu)"],
+    "examples": ["水曜日 (すいようび) - Wednesday", "水 (みず) - Water"],
+    "sound": "水"
+  },
+  {
+    "kanji": "木",
+    "meaning": "tree / wood",
+    "onyomi": ["モク (moku)", "ボク (boku)"],
+    "kunyomi": ["き (ki)", "こ (ko)"],
+    "examples": ["木曜日 (もくようび) - Thursday", "木 (き) - Tree"],
+    "sound": "木"
+  },
+  {
+    "kanji": "金",
+    "meaning": "gold / money",
+    "onyomi": ["キン (kin)", "コン (kon)"],
+    "kunyomi": ["かね (kane)", "かな (kana)"],
+    "examples": ["金曜日 (きんようび) - Friday", "お金 (おかね) - Money"],
+    "sound": "金"
+  },
+  {
+    "kanji": "土",
+    "meaning": "earth / soil",
+    "onyomi": ["ド (do)", "ト (to)"],
+    "kunyomi": ["つち (tsuchi)"],
+    "examples": ["土曜日 (どようび) - Saturday", "土 (つち) - Soil"],
+    "sound": "土"
+  },
+  {
+    "kanji": "山",
+    "meaning": "mountain",
+    "onyomi": ["サン (san)"],
+    "kunyomi": ["やま (yama)"],
+    "examples": ["富士山 (ふじさん) - Mt. Fuji", "山 (やま) - Mountain"],
+    "sound": "山"
+  },
+  {
+    "kanji": "川",
+    "meaning": "river",
+    "onyomi": ["セン (sen)"],
+    "kunyomi": ["かわ (kawa)"],
+    "examples": ["川 (かわ) - River", "大川 (おおかわ) - Big river"],
+    "sound": "川"
+  }
+]

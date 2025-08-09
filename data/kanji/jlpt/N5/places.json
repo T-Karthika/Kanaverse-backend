@@ -1,0 +1,82 @@
+[
+  {
+    "kanji": "校",
+    "meaning": "school",
+    "onyomi": ["コウ (kou)"],
+    "kunyomi": [],
+    "examples": ["学校 (がっこう) - School", "高校 (こうこう) - High school"],
+    "sound": "校"
+  },
+  {
+    "kanji": "駅",
+    "meaning": "station",
+    "onyomi": ["エキ (eki)"],
+    "kunyomi": [],
+    "examples": ["駅 (えき) - Station", "東京駅 (とうきょうえき) - Tokyo Station"],
+    "sound": "駅"
+  },
+  {
+    "kanji": "店",
+    "meaning": "shop / store",
+    "onyomi": ["テン (ten)"],
+    "kunyomi": ["みせ (mise)"],
+    "examples": ["店 (みせ) - Shop", "店員 (てんいん) - Store clerk"],
+    "sound": "店"
+  },
+  {
+    "kanji": "家",
+    "meaning": "house / home",
+    "onyomi": ["カ (ka)"],
+    "kunyomi": ["いえ (ie)", "うち (uchi)"],
+    "examples": ["家 (いえ) - House", "家族 (かぞく) - Family"],
+    "sound": "家"
+  },
+  {
+    "kanji": "国",
+    "meaning": "country",
+    "onyomi": ["コク (koku)"],
+    "kunyomi": ["くに (kuni)"],
+    "examples": ["国 (くに) - Country", "外国 (がいこく) - Foreign country"],
+    "sound": "国"
+  },
+  {
+    "kanji": "町",
+    "meaning": "town",
+    "onyomi": ["チョウ (chou)"],
+    "kunyomi": ["まち (machi)"],
+    "examples": ["町 (まち) - Town", "町中 (まちなか) - Downtown"],
+    "sound": "町"
+  },
+  {
+    "kanji": "村",
+    "meaning": "village",
+    "onyomi": ["ソン (son)"],
+    "kunyomi": ["むら (mura)"],
+    "examples": ["村 (むら) - Village", "農村 (のうそん) - Farming village"],
+    "sound": "村"
+  },
+  {
+    "kanji": "病",
+    "meaning": "illness / hospital (as in 病院)",
+    "onyomi": ["ビョウ (byou)"],
+    "kunyomi": [],
+    "examples": ["病院 (びょういん) - Hospital", "病気 (びょうき) - Illness"],
+    "sound": "病"
+  },
+  {
+    "kanji": "室",
+    "meaning": "room",
+    "onyomi": ["シツ (shitsu)"],
+    "kunyomi": [],
+    "examples": ["教室 (きょうしつ) - Classroom", "部屋 (へや) - Room (not using 室, but related)"],
+    "sound": "室"
+  },
+  {
+    "kanji": "所",
+    "meaning": "place",
+    "onyomi": ["ショ (sho)"],
+    "kunyomi": ["ところ (tokoro)"],
+    "examples": ["所 (ところ) - Place", "住所 (じゅうしょ) - Address"],
+    "sound": "所"
+  }
+]

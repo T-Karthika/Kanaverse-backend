@@ -1,0 +1,52 @@
+[
+  {
+    "kana": "おはようございます",
+    "romaji": "ohayou gozaimasu",
+    "meaning": "Good morning"
+  },
+  {
+    "kana": "こんにちは",
+    "romaji": "konnichiwa",
+    "meaning": "Good afternoon / Hello"
+  },
+  {
+    "kana": "こんばんは",
+    "romaji": "konbanwa",
+    "meaning": "Good evening"
+  },
+  {
+    "kana": "さようなら",
+    "romaji": "sayounara",
+    "meaning": "Goodbye"
+  },
+  {
+    "kana": "またね",
+    "romaji": "mata ne",
+    "meaning": "See you later"
+  },
+  {
+    "kana": "おやすみなさい",
+    "romaji": "oyasumi nasai",
+    "meaning": "Good night"
+  },
+  {
+    "kana": "ありがとうございます",
+    "romaji": "arigatou gozaimasu",
+    "meaning": "Thank you (polite)"
+  },
+  {
+    "kana": "どういたしまして",
+    "romaji": "dou itashimashite",
+    "meaning": "You're welcome"
+  },
+  {
+    "kana": "すみません",
+    "romaji": "sumimasen",
+    "meaning": "Excuse me / Sorry"
+  },
+  {
+    "kana": "ごめんなさい",
+    "romaji": "gomennasai",
+    "meaning": "I'm sorry"
+  }
+]

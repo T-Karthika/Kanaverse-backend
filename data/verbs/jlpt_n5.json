@@ -1,0 +1,42 @@
+[
+  {
+    "base": "みる",
+    "meaning": "to see / to look",
+    "romaji": "miru",
+    "type": "ru-verb",
+    "kanji": "見る",
+    "sound": "みる"
+  },
+  {
+    "base": "きく",
+    "meaning": "to listen / to ask",
+    "romaji": "kiku",
+    "type": "u-verb",
+    "kanji": "聞く",
+    "sound": "きく"
+  },
+  {
+    "base": "はなす",
+    "meaning": "to speak",
+    "romaji": "hanasu",
+    "type": "u-verb",
+    "kanji": "話す",
+    "sound": "はなす"
+  },
+  {
+    "base": "かく",
+    "meaning": "to write",
+    "romaji": "kaku",
+    "type": "u-verb",
+    "kanji": "書く",
+    "sound": "かく"
+  },
+  {
+    "base": "まつ",
+    "meaning": "to wait",
+    "romaji": "matsu",
+    "type": "u-verb",
+    "kanji": "待つ",
+    "sound": "まつ"
+  }
+]

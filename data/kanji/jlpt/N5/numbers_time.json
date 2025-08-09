@@ -1,0 +1,106 @@
+[
+  {
+    "kanji": "一",
+    "meaning": "one",
+    "onyomi": ["イチ (ichi)"],
+    "kunyomi": ["ひと (hito)"],
+    "examples": ["一つ (ひとつ) - One (thing)", "一月 (いちがつ) - January"],
+    "sound": "一"
+  },
+  {
+    "kanji": "二",
+    "meaning": "two",
+    "onyomi": ["ニ (ni)"],
+    "kunyomi": ["ふた (futa)"],
+    "examples": ["二つ (ふたつ) - Two (things)", "二月 (にがつ) - February"],
+    "sound": "二"
+  },
+  {
+    "kanji": "三",
+    "meaning": "three",
+    "onyomi": ["サン (san)"],
+    "kunyomi": ["み (mi)"],
+    "examples": ["三つ (みっつ) - Three (things)", "三人 (さんにん) - Three people"],
+    "sound": "三"
+  },
+  {
+    "kanji": "四",
+    "meaning": "four",
+    "onyomi": ["シ (shi)"],
+    "kunyomi": ["よん (yon)", "よ (yo)", "よっ (yott)"],
+    "examples": ["四つ (よっつ) - Four (things)", "四月 (しがつ) - April"],
+    "sound": "四"
+  },
+  {
+    "kanji": "五",
+    "meaning": "five",
+    "onyomi": ["ゴ (go)"],
+    "kunyomi": ["いつ (itsu)"],
+    "examples": ["五つ (いつつ) - Five (things)", "五月 (ごがつ) - May"],
+    "sound": "五"
+  },
+  {
+    "kanji": "六",
+    "meaning": "six",
+    "onyomi": ["ロク (roku)"],
+    "kunyomi": ["むっ (muttsu)", "むい (mui)"],
+    "examples": ["六つ (むっつ) - Six (things)", "六月 (ろくがつ) - June"],
+    "sound": "六"
+  },
+  {
+    "kanji": "七",
+    "meaning": "seven",
+    "onyomi": ["シチ (shichi)"],
+    "kunyomi": ["なな (nana)", "なの (nano)"],
+    "examples": ["七つ (ななつ) - Seven (things)", "七月 (しちがつ) - July"],
+    "sound": "七"
+  },
+  {
+    "kanji": "八",
+    "meaning": "eight",
+    "onyomi": ["ハチ (hachi)"],
+    "kunyomi": ["やっ (yattsu)", "よう (you)"],
+    "examples": ["八つ (やっつ) - Eight (things)", "八月 (はちがつ) - August"],
+    "sound": "八"
+  },
+  {
+    "kanji": "九",
+    "meaning": "nine",
+    "onyomi": ["キュウ (kyuu)", "ク (ku)"],
+    "kunyomi": ["ここの (kokono)"],
+    "examples": ["九つ (ここのつ) - Nine (things)", "九月 (くがつ) - September"],
+    "sound": "九"
+  },
+  {
+    "kanji": "十",
+    "meaning": "ten",
+    "onyomi": ["ジュウ (juu)"],
+    "kunyomi": ["とお (too)"],
+    "examples": ["十 (じゅう) - Ten", "十月 (じゅうがつ) - October"],
+    "sound": "十"
+  },
+  {
+    "kanji": "時",
+    "meaning": "time / hour",
+    "onyomi": ["ジ (ji)"],
+    "kunyomi": ["とき (toki)"],
+    "examples": ["一時 (いちじ) - 1 o'clock", "時々 (ときどき) - Sometimes"],
+    "sound": "時"
+  },
+  {
+    "kanji": "分",
+    "meaning": "minute / part",
+    "onyomi": ["フン (fun)", "ブン (bun)", "ブ (bu)"],
+    "kunyomi": ["わ (wa)"],
+    "examples": ["五分 (ごふん) - 5 minutes", "自分 (じぶん) - Myself"],
+    "sound": "分"
+  },
+  {
+    "kanji": "半",
+    "meaning": "half",
+    "onyomi": ["ハン (han)"],
+    "kunyomi": [],
+    "examples": ["半分 (はんぶん) - Half", "一時半 (いちじはん) - 1:30"],
+    "sound": "半"
+  }
+]

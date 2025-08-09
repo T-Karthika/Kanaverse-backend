@@ -1,0 +1,82 @@
+[
+  {
+    "kanji": "行",
+    "meaning": "go / carry out",
+    "onyomi": ["コウ (kou)", "ギョウ (gyou)"],
+    "kunyomi": ["いく (iku)", "ゆく (yuku)", "おこなう (okonau)"],
+    "examples": ["行く (いく) - To go", "銀行 (ぎんこう) - Bank"],
+    "sound": "行"
+  },
+  {
+    "kanji": "来",
+    "meaning": "come / next",
+    "onyomi": ["ライ (rai)"],
+    "kunyomi": ["くる (kuru)", "きたる (kitaru)"],
+    "examples": ["来る (くる) - To come", "来年 (らいねん) - Next year"],
+    "sound": "来"
+  },
+  {
+    "kanji": "見",
+    "meaning": "see / look",
+    "onyomi": ["ケン (ken)"],
+    "kunyomi": ["みる (miru)", "みえる (mieru)", "みせる (miseru)"],
+    "examples": ["見る (みる) - To see", "見せる (みせる) - To show"],
+    "sound": "見"
+  },
+  {
+    "kanji": "聞",
+    "meaning": "hear / listen / ask",
+    "onyomi": ["ブン (bun)", "モン (mon)"],
+    "kunyomi": ["きく (kiku)", "きこえる (kikoeru)"],
+    "examples": ["聞く (きく) - To listen", "新聞 (しんぶん) - Newspaper"],
+    "sound": "聞"
+  },
+  {
+    "kanji": "食",
+    "meaning": "eat / food",
+    "onyomi": ["ショク (shoku)", "ジキ (jiki)"],
+    "kunyomi": ["たべる (taberu)", "くう (kuu)"],
+    "examples": ["食べる (たべる) - To eat", "食事 (しょくじ) - Meal"],
+    "sound": "食"
+  },
+  {
+    "kanji": "飲",
+    "meaning": "drink",
+    "onyomi": ["イン (in)"],
+    "kunyomi": ["のむ (nomu)"],
+    "examples": ["飲む (のむ) - To drink", "飲み物 (のみもの) - Beverage"],
+    "sound": "飲"
+  },
+  {
+    "kanji": "書",
+    "meaning": "write",
+    "onyomi": ["ショ (sho)"],
+    "kunyomi": ["かく (kaku)"],
+    "examples": ["書く (かく) - To write", "辞書 (じしょ) - Dictionary"],
+    "sound": "書"
+  },
+  {
+    "kanji": "話",
+    "meaning": "talk / speak",
+    "onyomi": ["ワ (wa)"],
+    "kunyomi": ["はなす (hanasu)", "はなし (hanashi)"],
+    "examples": ["話す (はなす) - To speak", "会話 (かいわ) - Conversation"],
+    "sound": "話"
+  },
+  {
+    "kanji": "買",
+    "meaning": "buy",
+    "onyomi": ["バイ (bai)"],
+    "kunyomi": ["かう (kau)"],
+    "examples": ["買う (かう) - To buy", "買い物 (かいもの) - Shopping"],
+    "sound": "買"
+  },
+  {
+    "kanji": "出",
+    "meaning": "exit / leave",
+    "onyomi": ["シュツ (shutsu)", "スイ (sui)"],
+    "kunyomi": ["でる (deru)", "だす (dasu)"],
+    "examples": ["出る (でる) - To exit", "出す (だす) - To take out"],
+    "sound": "出"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "question": "‘あ’ is which sound in romaji?",
+    "answer": "a",
+    "romaji": "a",
+    "meaning": "Hiragana: あ = A",
+    "options": ["a", "i", "u", "e"]
+  },
+  {
+    "question": "‘す’ の ローマ字は？",
+    "answer": "su",
+    "romaji": "su",
+    "meaning": "Hiragana: す = SU",
+    "options": ["su", "so", "sa", "se"]
+  },
+  {
+    "question": "‘カ’ は なんと 読みますか？",
+    "answer": "ka",
+    "romaji": "ka",
+    "meaning": "Katakana: カ = KA",
+    "options": ["ka", "ke", "ki", "ku"]
+  },
+  {
+    "question": "‘ヌ’ の ローマ字 は？",
+    "answer": "nu",
+    "romaji": "nu",
+    "meaning": "Katakana: ヌ = NU",
+    "options": ["ne", "nu", "no", "na"]
+  },
+  {
+    "question": "‘七’ は 英語で？",
+    "answer": "seven",
+    "romaji": "nana / shichi",
+    "meaning": "Kanji for 7",
+    "options": ["seven", "six", "eight", "ten"]
+  },
+  {
+    "question": "‘三’ の よみかた は？",
+    "answer": "さん",
+    "romaji": "san",
+    "meaning": "3 (three)",
+    "options": ["さん", "し", "ご", "に"]
+  },
+  {
+    "question": "‘十’ は なんと よみますか？",
+    "answer": "じゅう",
+    "romaji": "juu",
+    "meaning": "10 (ten)",
+    "options": ["じゅう", "きゅう", "ろく", "はち"]
+  },
+  {
+    "question": "‘食べる’ の 英語は？",
+    "answer": "to eat",
+    "romaji": "taberu",
+    "meaning": "Verb",
+    "options": ["to eat", "to drink", "to sleep", "to go"]
+  },
+  {
+    "question": "‘飲む’ の いみ は？",
+    "answer": "to drink",
+    "romaji": "nomu",
+    "meaning": "Verb",
+    "options": ["to drink", "to walk", "to eat", "to run"]
+  },
+  {
+    "question": "‘行く’ の よみ は？",
+    "answer": "いく",
+    "romaji": "iku",
+    "meaning": "to go",
+    "options": ["いく", "たべる", "くる", "みる"]
+  },
+  {
+    "question": "‘来る’ の ローマ字 は？",
+    "answer": "kuru",
+    "romaji": "kuru",
+    "meaning": "to come",
+    "options": ["kuru", "kau", "iku", "nomu"]
+  },
+  {
+    "question": "‘見る’ の 英語 は？",
+    "answer": "to see",
+    "romaji": "miru",
+    "meaning": "to watch",
+    "options": ["to see", "to say", "to sleep", "to eat"]
+  },
+  {
+    "question": "‘買う’ の いみ は？",
+    "answer": "to buy",
+    "romaji": "kau",
+    "meaning": "Verb",
+    "options": ["to buy", "to sell", "to open", "to eat"]
+  },
+  {
+    "question": "‘これはペンです。’ の 英語訳 は？",
+    "answer": "This is a pen.",
+    "romaji": "kore wa pen desu",
+    "meaning": "Basic sentence",
+    "options": ["This is a pen.", "That is a pencil.", "This is a cat.", "It is my book."]
+  },
+  {
+    "question": "‘彼は学生です。’ の いみ は？",
+    "answer": "He is a student.",
+    "romaji": "kare wa gakusei desu",
+    "meaning": "Basic sentence",
+    "options": ["He is a student.", "She is a student.", "He is a teacher.", "They are students."]
+  },
+  {
+    "question": "‘私は日本人です。’ の 英語 は？",
+    "answer": "I am Japanese.",
+    "romaji": "watashi wa nihonjin desu",
+    "meaning": "Self intro",
+    "options": ["I am Japanese.", "You are Japanese.", "I am American.", "They are Japanese."]
+  },
+  {
+    "question": "‘名前は何ですか？’ の いみ は？",
+    "answer": "What is your name?",
+    "romaji": "namae wa nan desu ka",
+    "meaning": "Question",
+    "options": ["What is your name?", "Where are you from?", "How are you?", "What is this?"]
+  },
+  {
+    "question": "‘ありがとう’ は 英語で？",
+    "answer": "thank you",
+    "romaji": "arigatou",
+    "meaning": "Greeting",
+    "options": ["thank you", "hello", "goodbye", "sorry"]
+  },
+  {
+    "question": "‘おはよう’ の いみ は？",
+    "answer": "good morning",
+    "romaji": "ohayou",
+    "meaning": "Greeting",
+    "options": ["good morning", "good night", "good evening", "hello"]
+  },
+  {
+    "question": "‘すみません’ は 英語で？",
+    "answer": "excuse me / sorry",
+    "romaji": "sumimasen",
+    "meaning": "Apology",
+    "options": ["excuse me / sorry", "thank you", "how are you", "yes please"]
+  },
+  {
+    "question": "‘と’ の 助詞 (particle) の 使い方 は？",
+    "answer": "and / with",
+    "romaji": "to",
+    "meaning": "Used as 'and' or 'with'",
+    "options": ["and / with", "object", "location", "time"]
+  },
+  {
+    "question": "‘を’ は どんな 助詞？",
+    "answer": "object marker",
+    "romaji": "wo / o",
+    "meaning": "marks the object",
+    "options": ["object marker", "topic", "location", "time"]
+  },
+  {
+    "question": "‘に’ の つかいかた は？",
+    "answer": "time / destination",
+    "romaji": "ni",
+    "meaning": "particle for place/time",
+    "options": ["time / destination", "object", "subject", "question"]
+  },
+  {
+    "question": "‘がっこう’ の 英語は？",
+    "answer": "school",
+    "romaji": "gakkou",
+    "meaning": "Place",
+    "options": ["school", "hospital", "home", "office"]
+  },
+  {
+    "question": "‘せんせい’ の 英語は？",
+    "answer": "teacher",
+    "romaji": "sensei",
+    "meaning": "Occupation",
+    "options": ["teacher", "student", "doctor", "parent"]
+  },
+  {
+    "question": "‘ともだち’ は 英語で？",
+    "answer": "friend",
+    "romaji": "tomodachi",
+    "meaning": "People",
+    "options": ["friend", "brother", "mother", "child"]
+  },
+  {
+    "question": "‘いぬ’ の 英語は？",
+    "answer": "dog",
+    "romaji": "inu",
+    "meaning": "Animal",
+    "options": ["dog", "cat", "bird", "fish"]
+  },
+  {
+    "question": "‘ねこ’ の よみ は？",
+    "answer": "cat",
+    "romaji": "neko",
+    "meaning": "Animal",
+    "options": ["cat", "mouse", "rabbit", "tiger"]
+  },
+  {
+    "question": "‘たのしい’ の 英語は？",
+    "answer": "fun / enjoyable",
+    "romaji": "tanoshii",
+    "meaning": "Emotion",
+    "options": ["fun / enjoyable", "boring", "tired", "sleepy"]
+  },
+  {
+    "question": "‘つめたい’ は どんな意味？",
+    "answer": "cold (to touch)",
+    "romaji": "tsumetai",
+    "meaning": "Adjective",
+    "options": ["cold (to touch)", "hot", "warm", "cool"]
+  }
+]

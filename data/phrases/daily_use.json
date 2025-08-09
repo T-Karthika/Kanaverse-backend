@@ -1,0 +1,52 @@
+[
+  {
+    "kana": "これはなんですか？",
+    "romaji": "kore wa nan desu ka?",
+    "meaning": "What is this?"
+  },
+  {
+    "kana": "いくらですか？",
+    "romaji": "ikura desu ka?",
+    "meaning": "How much is it?"
+  },
+  {
+    "kana": "わかりました",
+    "romaji": "wakarimashita",
+    "meaning": "I understand / Got it"
+  },
+  {
+    "kana": "わかりません",
+    "romaji": "wakarimasen",
+    "meaning": "I don't understand"
+  },
+  {
+    "kana": "もういちど おねがいします",
+    "romaji": "mou ichido onegaishimasu",
+    "meaning": "Please say it one more time"
+  },
+  {
+    "kana": "ゆっくり おねがいします",
+    "romaji": "yukkuri onegaishimasu",
+    "meaning": "Please speak slowly"
+  },
+  {
+    "kana": "はい",
+    "romaji": "hai",
+    "meaning": "Yes"
+  },
+  {
+    "kana": "いいえ",
+    "romaji": "iie",
+    "meaning": "No"
+  },
+  {
+    "kana": "たすけて！",
+    "romaji": "tasukete!",
+    "meaning": "Help!"
+  },
+  {
+    "kana": "だいじょうぶですか？",
+    "romaji": "daijoubu desu ka?",
+    "meaning": "Are you okay?"
+  }
+]

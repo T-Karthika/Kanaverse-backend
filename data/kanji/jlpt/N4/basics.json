@@ -1,0 +1,58 @@
+[
+  {
+    "kanji": "思",
+    "meaning": "think",
+    "onyomi": ["シ (shi)"],
+    "kunyomi": ["おもう (omou)"],
+    "examples": ["思う (おもう) - To think", "思い出 (おもいで) - Memory"],
+    "sound": "思"
+  },
+  {
+    "kanji": "知",
+    "meaning": "know",
+    "onyomi": ["チ (chi)"],
+    "kunyomi": ["しる (shiru)"],
+    "examples": ["知る (しる) - To know", "知人 (ちじん) - Acquaintance"],
+    "sound": "知"
+  },
+  {
+    "kanji": "新",
+    "meaning": "new",
+    "onyomi": ["シン (shin)"],
+    "kunyomi": ["あたらしい (atarashii)", "あらた (arata)"],
+    "examples": ["新しい (あたらしい) - New", "新聞 (しんぶん) - Newspaper"],
+    "sound": "新"
+  },
+  {
+    "kanji": "古",
+    "meaning": "old",
+    "onyomi": ["コ (ko)"],
+    "kunyomi": ["ふるい (furui)"],
+    "examples": ["古い (ふるい) - Old", "中古 (ちゅうこ) - Second-hand"],
+    "sound": "古"
+  },
+  {
+    "kanji": "考",
+    "meaning": "consider / think",
+    "onyomi": ["コウ (kou)"],
+    "kunyomi": ["かんがえる (kangaeru)"],
+    "examples": ["考える (かんがえる) - To consider", "参考 (さんこう) - Reference"],
+    "sound": "考"
+  },
+  {
+    "kanji": "教",
+    "meaning": "teach",
+    "onyomi": ["キョウ (kyou)"],
+    "kunyomi": ["おしえる (oshieru)", "おそわる (osowaru)"],
+    "examples": ["教える (おしえる) - To teach", "教師 (きょうし) - Teacher"],
+    "sound": "教"
+  },
+  {
+    "kanji": "朝",
+    "meaning": "morning",
+    "onyomi": ["チョウ (chou)"],
+    "kunyomi": ["あさ (asa)"],
+    "examples": ["朝 (あさ) - Morning", "今朝 (けさ) - This morning"],
+    "sound": "朝"
+  }
+]

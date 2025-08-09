@@ -1,0 +1,42 @@
+[
+  {
+    "base": "おもう",
+    "meaning": "to think",
+    "romaji": "omou",
+    "type": "u-verb",
+    "kanji": "思う",
+    "sound": "おもう"
+  },
+  {
+    "base": "つづける",
+    "meaning": "to continue",
+    "romaji": "tsuzukeru",
+    "type": "ru-verb",
+    "kanji": "続ける",
+    "sound": "つづける"
+  },
+  {
+    "base": "なおす",
+    "meaning": "to fix / to correct",
+    "romaji": "naosu",
+    "type": "u-verb",
+    "kanji": "直す",
+    "sound": "なおす"
+  },
+  {
+    "base": "わらう",
+    "meaning": "to laugh / to smile",
+    "romaji": "warau",
+    "type": "u-verb",
+    "kanji": "笑う",
+    "sound": "わらう"
+  },
+  {
+    "base": "おぼえる",
+    "meaning": "to memorize / to remember",
+    "romaji": "oboeru",
+    "type": "ru-verb",
+    "kanji": "覚える",
+    "sound": "おぼえる"
+  }
+]

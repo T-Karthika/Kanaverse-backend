@@ -1,0 +1,55 @@
+[
+  {
+    "question": "‘日曜日’ の よみかた は？",
+    "answer": "にちようび",
+    "romaji": "nichiyoubi",
+    "meaning": "Sunday",
+    "options": ["にちようび", "げつようび", "どようび", "かようび"]
+  },
+  {
+    "question": "‘To go’ は 日本語で？",
+    "answer": "いく",
+    "romaji": "iku",
+    "meaning": "to go",
+    "options": ["いく", "くる", "あるく", "のる"]
+  },
+  {
+    "question": "‘猫’ の ひらがな は？",
+    "answer": "ねこ",
+    "romaji": "neko",
+    "meaning": "cat",
+    "options": ["いぬ", "ねこ", "とり", "さる"]
+  },
+  {
+    "question": "‘学生’ は えいごで？",
+    "answer": "student",
+    "romaji": "gakusei",
+    "meaning": "student",
+    "options": ["teacher", "student", "friend", "classroom"]
+  },
+  {
+    "question": "‘To drink’ は 日本語で？",
+    "answer": "のむ",
+    "options": ["たべる", "のむ", "すう", "のこす"]
+  },
+  {
+    "question": "‘Please write’ は 日本語で？",
+    "answer": "かいてください",
+    "options": ["かいてください", "みてください", "きいてください", "よんでください"]
+  },
+  {
+    "question": "‘To come’ を 日本語で？",
+    "answer": "くる",
+    "options": ["いく", "くる", "かえる", "あるく"]
+  },
+  {
+    "question": "‘To fix / to correct’ を 日本語で？",
+    "answer": "なおす",
+    "options": ["なおす", "なおる", "みがく", "せいりする"]
+  },
+  {
+    "question": "‘I forgot’ を 日本語で？",
+    "answer": "わすれました",
+    "options": ["しりません", "わすれました", "おぼえました", "ききました"]
+  }
+]

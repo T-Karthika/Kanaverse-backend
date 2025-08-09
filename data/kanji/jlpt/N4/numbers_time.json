@@ -1,0 +1,146 @@
+[
+  {
+    "kanji": "一",
+    "meaning": "one (ichi)",
+    "onyomi": ["イチ", "イツ"],
+    "kunyomi": ["ひと.つ"],
+    "examples": ["一つ (ひとつ) - One thing", "一日 (いちにち) - One day"],
+    "sound": "一"
+  },
+  {
+    "kanji": "二",
+    "meaning": "two (ni)",
+    "onyomi": ["ニ"],
+    "kunyomi": ["ふた.つ"],
+    "examples": ["二つ (ふたつ) - Two things", "二月 (にがつ) - February"],
+    "sound": "二"
+  },
+  {
+    "kanji": "三",
+    "meaning": "three (san)",
+    "onyomi": ["サン"],
+    "kunyomi": ["みっ.つ"],
+    "examples": ["三つ (みっつ) - Three things", "三人 (さんにん) - Three people"],
+    "sound": "三"
+  },
+  {
+    "kanji": "四",
+    "meaning": "four (yon / shi)",
+    "onyomi": ["シ"],
+    "kunyomi": ["よっ.つ", "よん", "よ"],
+    "examples": ["四つ (よっつ) - Four things", "四月 (しがつ) - April"],
+    "sound": "四"
+  },
+  {
+    "kanji": "五",
+    "meaning": "five (go)",
+    "onyomi": ["ゴ"],
+    "kunyomi": ["いつ.つ"],
+    "examples": ["五つ (いつつ) - Five things", "五月 (ごがつ) - May"],
+    "sound": "五"
+  },
+  {
+    "kanji": "六",
+    "meaning": "six (roku)",
+    "onyomi": ["ロク"],
+    "kunyomi": ["むっ.つ"],
+    "examples": ["六つ (むっつ) - Six things", "六月 (ろくがつ) - June"],
+    "sound": "六"
+  },
+  {
+    "kanji": "七",
+    "meaning": "seven (nana / shichi)",
+    "onyomi": ["シチ"],
+    "kunyomi": ["なな.つ"],
+    "examples": ["七つ (ななつ) - Seven things", "七月 (しちがつ) - July"],
+    "sound": "七"
+  },
+  {
+    "kanji": "八",
+    "meaning": "eight (hachi)",
+    "onyomi": ["ハチ"],
+    "kunyomi": ["やっ.つ"],
+    "examples": ["八つ (やっつ) - Eight things", "八月 (はちがつ) - August"],
+    "sound": "八"
+  },
+  {
+    "kanji": "九",
+    "meaning": "nine (kyuu / ku)",
+    "onyomi": ["キュウ", "ク"],
+    "kunyomi": ["ここの.つ"],
+    "examples": ["九つ (ここのつ) - Nine things", "九月 (くがつ) - September"],
+    "sound": "九"
+  },
+  {
+    "kanji": "十",
+    "meaning": "ten (juu)",
+    "onyomi": ["ジュウ"],
+    "kunyomi": ["とお"],
+    "examples": ["十 (とお) - Ten things", "十月 (じゅうがつ) - October"],
+    "sound": "十"
+  },
+  {
+    "kanji": "時",
+    "meaning": "time / hour (ji)",
+    "onyomi": ["ジ"],
+    "kunyomi": ["とき"],
+    "examples": ["一時 (いちじ) - One o'clock", "時々 (ときどき) - Sometimes"],
+    "sound": "時"
+  },
+  {
+    "kanji": "分",
+    "meaning": "minute / part / understand (fun / bun)",
+    "onyomi": ["フン", "ブン", "ブ"],
+    "kunyomi": ["わ.ける", "わ.かる"],
+    "examples": ["五分 (ごふん) - Five minutes", "分かる (わかる) - To understand"],
+    "sound": "分"
+  },
+  {
+    "kanji": "半",
+    "meaning": "half (han)",
+    "onyomi": ["ハン"],
+    "kunyomi": [],
+    "examples": ["半分 (はんぶん) - Half", "三時半 (さんじはん) - 3:30"],
+    "sound": "半"
+  },
+  {
+    "kanji": "日",
+    "meaning": "day / sun (nichi / hi)",
+    "onyomi": ["ニチ", "ジツ"],
+    "kunyomi": ["ひ", "か"],
+    "examples": ["日曜日 (にちようび) - Sunday", "日本 (にほん) - Japan"],
+    "sound": "日"
+  },
+  {
+    "kanji": "週",
+    "meaning": "week (shuu)",
+    "onyomi": ["シュウ"],
+    "kunyomi": [],
+    "examples": ["来週 (らいしゅう) - Next week", "毎週 (まいしゅう) - Every week"],
+    "sound": "週"
+  },
+  {
+    "kanji": "月",
+    "meaning": "month / moon (getsu / gatsu)",
+    "onyomi": ["ゲツ", "ガツ"],
+    "kunyomi": ["つき"],
+    "examples": ["一月 (いちがつ) - January", "月曜日 (げつようび) - Monday"],
+    "sound": "月"
+  },
+  {
+    "kanji": "年",
+    "meaning": "year (nen)",
+    "onyomi": ["ネン"],
+    "kunyomi": ["とし"],
+    "examples": ["来年 (らいねん) - Next year", "一年 (いちねん) - One year"],
+    "sound": "年"
+  },
+  {
+    "kanji": "曜",
+    "meaning": "weekday (you)",
+    "onyomi": ["ヨウ"],
+    "kunyomi": [],
+    "examples": ["日曜日 (にちようび) - Sunday", "月曜日 (げつようび) - Monday"],
+    "sound": "曜"
+  }
+]

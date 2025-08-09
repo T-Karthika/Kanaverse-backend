@@ -1,0 +1,47 @@
+[
+  {
+    "kana": "しつもんがあります",
+    "romaji": "shitsumon ga arimasu",
+    "meaning": "I have a question"
+  },
+  {
+    "kana": "わすれました",
+    "romaji": "wasuremashita",
+    "meaning": "I forgot"
+  },
+  {
+    "kana": "みてください",
+    "romaji": "mite kudasai",
+    "meaning": "Please look"
+  },
+  {
+    "kana": "きいてください",
+    "romaji": "kiite kudasai",
+    "meaning": "Please listen"
+  },
+  {
+    "kana": "よんでください",
+    "romaji": "yonde kudasai",
+    "meaning": "Please read"
+  },
+  {
+    "kana": "かいてください",
+    "romaji": "kaite kudasai",
+    "meaning": "Please write"
+  },
+  {
+    "kana": "わかりますか？",
+    "romaji": "wakarimasu ka?",
+    "meaning": "Do you understand?"
+  },
+  {
+    "kana": "はい、わかります",
+    "romaji": "hai, wakarimasu",
+    "meaning": "Yes, I understand"
+  },
+  {
+    "kana": "いいえ、わかりません",
+    "romaji": "iie, wakarimasen",
+    "meaning": "No, I don't understand"
+  }
+]

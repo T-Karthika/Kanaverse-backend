@@ -1,0 +1,77 @@
+[
+  {
+    "question": "‘必要’ の よみかた は？",
+    "answer": "ひつよう",
+    "romaji": "hitsuyou",
+    "meaning": "necessary",
+    "options": ["ひつよう", "むずかしい", "たいせつ", "ふべん"]
+  },
+  {
+    "question": "‘試験’ は なんと 読みますか？",
+    "answer": "しけん",
+    "romaji": "shiken",
+    "meaning": "exam / test",
+    "options": ["しけん", "もんだい", "こうぎ", "べんきょう"]
+  },
+  {
+    "question": "‘会社員’ の いみ は？",
+    "answer": "company employee",
+    "romaji": "kaishain",
+    "meaning": "company employee",
+    "options": ["teacher", "company employee", "student", "manager"]
+  },
+  {
+    "question": "‘最近’ は 英語で？",
+    "answer": "recently",
+    "romaji": "saikin",
+    "meaning": "recently",
+    "options": ["yesterday", "soon", "recently", "always"]
+  },
+  {
+    "question": "‘疲れる’ の いみ は？",
+    "answer": "to get tired",
+    "romaji": "tsukareru",
+    "meaning": "to get tired",
+    "options": ["to sleep", "to run", "to get tired", "to rest"]
+  },
+  {
+    "question": "‘早く 起きなければなりません。’ の 英語訳は？",
+    "answer": "I must wake up early.",
+    "romaji": "hayaku okinakereba narimasen",
+    "meaning": "must wake up early",
+    "options": ["I must sleep early.", "I will wake up late.", "I must wake up early.", "Can I wake up late?"]
+  },
+  {
+    "question": "‘図書館で 勉強しても いいですか？’ の いみ は？",
+    "answer": "Is it okay if I study at the library?",
+    "romaji": "toshokan de benkyou shite mo ii desu ka",
+    "meaning": "permission to study",
+    "options": [
+      "Shall we go to the library?",
+      "Can I study at the library?",
+      "Is it okay if I study at the library?",
+      "Please study at the library."
+    ]
+  },
+  {
+    "question": "‘～なければ なりません’ は どういう意味？",
+    "answer": "must / have to",
+    "romaji": "nakereba narimasen",
+    "meaning": "obligation",
+    "options": ["can", "must / have to", "want to", "shouldn't"]
+  },
+  {
+    "question": "‘便利’ の 反対語 (opposite) は？",
+    "answer": "ふべん",
+    "romaji": "fuben",
+    "meaning": "inconvenient",
+    "options": ["しずか", "ふべん", "きれい", "べんり"]
+  },
+  {
+    "question": "‘静か’ の 英語は？",
+    "answer": "quiet",
+    "romaji": "shizuka",
+    "meaning": "quiet",
+    "options": ["quiet", "fast", "easy", "heavy"]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "kanji": "駅",
+    "meaning": "station",
+    "onyomi": ["エキ"],
+    "kunyomi": [],
+    "examples": ["駅 (えき) - Station", "東京駅 (とうきょうえき) - Tokyo Station"],
+    "sound": "駅"
+  },
+  {
+    "kanji": "店",
+    "meaning": "shop / store",
+    "onyomi": ["テン"],
+    "kunyomi": ["みせ"],
+    "examples": ["店 (みせ) - Shop", "店員 (てんいん) - Store clerk"],
+    "sound": "店"
+  },
+  {
+    "kanji": "病",
+    "meaning": "illness",
+    "onyomi": ["ビョウ"],
+    "kunyomi": [],
+    "examples": ["病院 (びょういん) - Hospital", "病気 (びょうき) - Illness"],
+    "sound": "病"
+  },
+  {
+    "kanji": "院",
+    "meaning": "institution",
+    "onyomi": ["イン"],
+    "kunyomi": [],
+    "examples": ["病院 (びょういん) - Hospital", "大学院 (だいがくいん) - Graduate school"],
+    "sound": "院"
+  },
+  {
+    "kanji": "会",
+    "meaning": "meeting / association",
+    "onyomi": ["カイ"],
+    "kunyomi": ["あ.う"],
+    "examples": ["会社 (かいしゃ) - Company", "会う (あう) - To meet"],
+    "sound": "会"
+  },
+  {
+    "kanji": "社",
+    "meaning": "company / shrine",
+    "onyomi": ["シャ"],
+    "kunyomi": [],
+    "examples": ["会社 (かいしゃ) - Company", "神社 (じんじゃ) - Shrine"],
+    "sound": "社"
+  },
+  {
+    "kanji": "校",
+    "meaning": "school",
+    "onyomi": ["コウ"],
+    "kunyomi": [],
+    "examples": ["学校 (がっこう) - School", "高校 (こうこう) - High school"],
+    "sound": "校"
+  },
+  {
+    "kanji": "館",
+    "meaning": "building / hall",
+    "onyomi": ["カン"],
+    "kunyomi": [],
+    "examples": ["図書館 (としょかん) - Library", "映画館 (えいがかん) - Cinema"],
+    "sound": "館"
+  },
+  {
+    "kanji": "場",
+    "meaning": "place / location",
+    "onyomi": ["ジョウ"],
+    "kunyomi": ["ば"],
+    "examples": ["場所 (ばしょ) - Place", "広場 (ひろば) - Plaza"],
+    "sound": "場"
+  },
+  {
+    "kanji": "家",
+    "meaning": "house / home",
+    "onyomi": ["カ", "ケ"],
+    "kunyomi": ["いえ", "や"],
+    "examples": ["家 (いえ) - House", "家族 (かぞく) - Family"],
+    "sound": "家"
+  }
+]

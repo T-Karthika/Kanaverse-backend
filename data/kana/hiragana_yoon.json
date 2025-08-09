@@ -1,0 +1,45 @@
+[
+  { "kana": "きゃ", "romaji": "kya", "meaning": "KYA", "sound": "きゃ" },
+  { "kana": "きゅ", "romaji": "kyu", "meaning": "KYU", "sound": "きゅ" },
+  { "kana": "きょ", "romaji": "kyo", "meaning": "KYO", "sound": "きょ" },
+
+  { "kana": "しゃ", "romaji": "sha", "meaning": "SHA", "sound": "しゃ" },
+  { "kana": "しゅ", "romaji": "shu", "meaning": "SHU", "sound": "しゅ" },
+  { "kana": "しょ", "romaji": "sho", "meaning": "SHO", "sound": "しょ" },
+
+  { "kana": "ちゃ", "romaji": "cha", "meaning": "CHA", "sound": "ちゃ" },
+  { "kana": "ちゅ", "romaji": "chu", "meaning": "CHU", "sound": "ちゅ" },
+  { "kana": "ちょ", "romaji": "cho", "meaning": "CHO", "sound": "ちょ" },
+
+  { "kana": "にゃ", "romaji": "nya", "meaning": "NYA", "sound": "にゃ" },
+  { "kana": "にゅ", "romaji": "nyu", "meaning": "NYU", "sound": "にゅ" },
+  { "kana": "にょ", "romaji": "nyo", "meaning": "NYO", "sound": "にょ" },
+
+  { "kana": "ひゃ", "romaji": "hya", "meaning": "HYA", "sound": "ひゃ" },
+  { "kana": "ひゅ", "romaji": "hyu", "meaning": "HYU", "sound": "ひゅ" },
+  { "kana": "ひょ", "romaji": "hyo", "meaning": "HYO", "sound": "ひょ" },
+
+  { "kana": "みゃ", "romaji": "mya", "meaning": "MYA", "sound": "みゃ" },
+  { "kana": "みゅ", "romaji": "myu", "meaning": "MYU", "sound": "みゅ" },
+  { "kana": "みょ", "romaji": "myo", "meaning": "MYO", "sound": "みょ" },
+
+  { "kana": "りゃ", "romaji": "rya", "meaning": "RYA", "sound": "りゃ" },
+  { "kana": "りゅ", "romaji": "ryu", "meaning": "RYU", "sound": "りゅ" },
+  { "kana": "りょ", "romaji": "ryo", "meaning": "RYO", "sound": "りょ" },
+
+  { "kana": "ぎゃ", "romaji": "gya", "meaning": "GYA", "sound": "ぎゃ" },
+  { "kana": "ぎゅ", "romaji": "gyu", "meaning": "GYU", "sound": "ぎゅ" },
+  { "kana": "ぎょ", "romaji": "gyo", "meaning": "GYO", "sound": "ぎょ" },
+
+  { "kana": "じゃ", "romaji": "ja", "meaning": "JA", "sound": "じゃ" },
+  { "kana": "じゅ", "romaji": "ju", "meaning": "JU", "sound": "じゅ" },
+  { "kana": "じょ", "romaji": "jo", "meaning": "JO", "sound": "じょ" },
+
+  { "kana": "びゃ", "romaji": "bya", "meaning": "BYA", "sound": "びゃ" },
+  { "kana": "びゅ", "romaji": "byu", "meaning": "BYU", "sound": "びゅ" },
+  { "kana": "びょ", "romaji": "byo", "meaning": "BYO", "sound": "びょ" },
+
+  { "kana": "ぴゃ", "romaji": "pya", "meaning": "PYA", "sound": "ぴゃ" },
+  { "kana": "ぴゅ", "romaji": "pyu", "meaning": "PYU", "sound": "ぴゅ" },
+  { "kana": "ぴょ", "romaji": "pyo", "meaning": "PYO", "sound": "ぴょ" }
+]
